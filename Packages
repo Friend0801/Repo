@@ -1,4 +1,4 @@
-Package: com.test.test11
+Package: com.tsumtsum.friend
 Architecture: iphoneos-arm
 Version: 1.89.1
 Section: Tweaks
@@ -13,6 +13,6 @@ SHA256: 33fce701a21e59e12d9890d8bf7ccb48e831fd1a642c58bc1d078b4b5dccc030
 SHA512: ac58b004782238a2fab3111e1f52be15665ca126a4cc2ad9055bdd1cd36ab4fc093a9715936773847c7fe70561b86db43656f37f97c024d246357d3231821339
 Homepage: https://twitter.com/suzume_0801
 Description: ツムツムのmodmenuです！@suzume_0801が作成しました！何かあったらTwitterに来てください！
-Name: test
+Name: TsumTsumModMenu
 Author: friend
 
